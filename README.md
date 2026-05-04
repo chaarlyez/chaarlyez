@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">⚡ Carlos Fernando Betancourt Lopez ⚡</h1>
 
-<!--
-**chaarlyez/chaarlyez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=System+Online...;Backend+Developer+Loading...;Access+Granted+🟢" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SENA-ADSO-black?style=for-the-badge&logo=hackthebox&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/FICHA-3239137-0f0f0f?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 SYSTEM.LOG
+```bash
+> user: Carlos Fernando Betancourt Lopez
+> role: Software Developer (in progress)
+> program: ADSO - SENA
+> location: Colombia
+> status: Learning... ██████████ 70%
