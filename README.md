@@ -1,8 +1,10 @@
-<h1 align="center">⚡ Carlos Fernando Betancourt Lopez ⚡</h1>
+<h1 align="center">Carlos Fernando Betancourt Lopez 🪙</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=System+Online...;Backend+Developer+Loading...;Access+Granted+🟢" />
 </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,mysql,git,github&theme=dark" /> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge"/>
@@ -10,12 +12,19 @@
   <img src="https://img.shields.io/badge/FICHA-3239137-0f0f0f?style=for-the-badge"/>
 </p>
 
+
 ---
 
-## 🧠 SYSTEM.LOG
+
+## 📖 About Me
 ```bash
-> user: Carlos Fernando Betancourt Lopez
+> name: Carlos Betancourt
 > role: Software Developer (in progress)
+> focus: Backend Development
 > program: ADSO - SENA
 > location: Colombia
-> status: Learning... ██████████ 70%
+> mindset: Build clean. Think smart.
+
+
+
+
