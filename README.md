@@ -18,7 +18,7 @@
 
 ## 📖 About Me
 ```bash
-> name: Carlos Betancourt
+> name: Carlos Fernando Betancourt Lopez
 > role: Software Developer (in progress)
 > focus: Backend Development
 > program: ADSO - SENA
